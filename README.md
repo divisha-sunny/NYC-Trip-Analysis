@@ -10,4 +10,4 @@ This dashboard is created using trip record data provided by the Taxi and Limous
 
 As the data is huge, a big data pipeline is created, as shown below. For more information on how this pipeline works, please refer to the [manual](https://github.com/divisha-sunny/NYC-Trip-Analysis/blob/master/Manual.docx) attached in this repository.
 
-[![Alt Text](BigData_Pipeline.png)]
+![Alt Text](BigData_Pipeline.png)
