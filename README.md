@@ -4,7 +4,7 @@ This dashboard is created using trip record data provided by the Taxi and Limous
 
 **Click the picture to to open the dashboard and try it out!**
 
-[![Alt Text](trip_analysis.jpg)]([https://link-to-your-dashboard](https://github.com/divisha-sunny/NYC-Trip-Analysis/blob/master/NycTripDataAnalysis%20(5).pdf))
+[![Alt Text](trip_analysis.jpg)](https://github.com/divisha-sunny/NYC-Trip-Analysis/blob/master/NycTripDataAnalysis%20(5).pdf))
 
 # Methodology
 
